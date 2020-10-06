@@ -1,0 +1,12 @@
+name: Inputs_Type
+title: Inputs_Type
+username:
+account: josealigo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2930676
+bundleId: 3694198
+url: https://josealigo.shinyapps.io/Inputs_Type/
+when: 1601617962.45443
+asMultiple: FALSE
+asStatic: FALSE
