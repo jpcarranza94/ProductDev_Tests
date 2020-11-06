@@ -1,0 +1,12 @@
+name: Upload_file_DT
+title: Upload_file_DT
+username:
+account: josealigo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3018212
+bundleId: 3742419
+url: https://josealigo.shinyapps.io/Upload_file_DT/
+when: 1602720833.57836
+asMultiple: FALSE
+asStatic: FALSE
