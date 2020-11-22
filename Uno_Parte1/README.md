@@ -125,11 +125,11 @@ Teniendo el dataframe df se crean los siguientes campos:
 - month: Mes de la publicación.
 - dom: Día de la publicación, respecto al mes en curso.
 - dow: Día de la publicación, respecto a la semana en curso.
-- length_title: longitud de caracteres del título de la publicación.
+- length_title: longitud de tokens del título de la publicación.
 - like_ratio: 
 - comment_ratio: 
 - dislike_ratio:	
-- length_description: longitud de caracteres de la descripción de la publicación.
+- length_description: longitud de tokens de la descripción de la publicación.
 
 Partes del dashboard
 --------------------
