@@ -96,8 +96,20 @@ quit
 exit
 
 ```
+3. Ejecutar el siguiente código en shell para instalar un paquete en el shiny app.
 
-3. Abrir el puerto 3838 del localhost (http://127.0.0.1:3838/) para acceder al servidor shiny. 
+```sh
+docker exec -i -t shiny_app bash
+
+R
+
+install.packages('RMySQL')
+
+q()
+
+exit
+``` 
+4. Abrir el puerto 3838 del localhost (http://127.0.0.1:3838/) para acceder al servidor shiny. 
 
 
 Manipulación de la data
