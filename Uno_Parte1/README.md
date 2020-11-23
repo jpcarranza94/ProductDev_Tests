@@ -155,9 +155,12 @@ En todos los paneles se pueden filtrar de acuerdo a lo siguiente:
 Conclusiones
 ------------
 - Academática tiene pocos videos con una alta incidencia de visualizaciones e interacción de los visitantes.
-- 
-
+- La longitud de títulos ni la longitud de la descripción tiene una correlación con la cantidad de vistas recibidas en los videos.
+- La distribución de los histogramas generados asemejan distribuciones exponenciales, con muchos videos con pocas visitas, pocos likes, pocos dislikes y pocos comentarios.
+- Los filtros generados en el dashboard permiten hacer un análisis un poco más preciso de cómo los videos se han comportado desde el 2006 hasta el presente.
+- El video de la Ley de Ohm tiene ambos, la mayor cantidad de likes, y la mayor cantidad de comentarios a pesar de no ser uno de los videos más vistos.
 
 Recomendaciones
 ---------------
-- 
+- Tener acceso al texto de los comentarios permitiría realizar un análisis de sentimientos para cada video, a manera de poder determinar la percepción general de cada video por parte de los audiencia de los videos.
+- La presentación de la data con shinyApps presenta de manera adecuada los datos. Sin embargo, la cantidad de variables de las que se disponía era limitada por lo que se recomienda tratar de obtener más variables para describir adecuadamente el comportamiento de los videos de Academática, como el id de los comentarios de los usuarios para ver si se obtienen vistas de los mismos visitantes recurrentes o de nuevas personas.
